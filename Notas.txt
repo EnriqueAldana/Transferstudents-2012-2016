@@ -1,0 +1,8 @@
+Despliegue de NEXT JS sobre plesk
+https://dev.to/optimbro/how-to-setup-nextjs-application-on-plesk-hosting-control-panel-linux-3d54
+
+Path del codigo
+/var/www/vhosts/cerometros.com/transferstudents-2012-2016.cerometros.com
+
+Arrancar corriendo el start.sh mediante
+setsid  ./start.sh >./log.log 2>&1 < /dev/null &

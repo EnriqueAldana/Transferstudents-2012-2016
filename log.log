@@ -1,0 +1,27 @@
+inicio de aplicacion NEXT JS para Mariana
+yarn run v1.22.19
+$ next dev -p 8888
+ready - started server on 0.0.0.0:8888, url: http://localhost:8888
+info  - Using wasm build of next-swc
+warn  - Attempted to load @next/swc-linux-x64-gnu, but it was not installed
+warn  - Attempted to load @next/swc-linux-x64-gnux32, but it was not installed
+warn  - Attempted to load @next/swc-linux-x64-musl, but it was not installed
+event - compiled client and server successfully in 1214 ms (184 modules)
+wait  - compiling / (client and server)...
+event - compiled client and server successfully in 1688 ms (486 modules)
+When server rendering, you must wrap your application in an <SSRProvider> to ensure consistent ids are generated between the client and server.
+wait  - compiling /about (client and server)...
+event - compiled client and server successfully in 363 ms (489 modules)
+When server rendering, you must wrap your application in an <SSRProvider> to ensure consistent ids are generated between the client and server.
+warn  - Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/basic-features/fast-refresh#how-it-works
+TypeError: Failed to fetch
+    at __webpack_require__.hmrM (http://transferstudents-2012-2016.cerometros.com:8888/_next/static/chunks/webpack.js?ts=1668486822304:1186:20)
+wait  - compiling /Graphs1 (client and server)...
+event - compiled client and server successfully in 647 ms (567 modules)
+When server rendering, you must wrap your application in an <SSRProvider> to ensure consistent ids are generated between the client and server.
+wait  - compiling /Graphs4 (client and server)...
+event - compiled client and server successfully in 768 ms (501 modules)
+When server rendering, you must wrap your application in an <SSRProvider> to ensure consistent ids are generated between the client and server.
+wait  - compiling / (client and server)...
+event - compiled client and server successfully in 221 ms (502 modules)
+When server rendering, you must wrap your application in an <SSRProvider> to ensure consistent ids are generated between the client and server.
